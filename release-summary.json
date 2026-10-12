@@ -1,20 +1,20 @@
 {
-  "version": "1.110.0",
+  "version": "1.111.1",
   "changes": {
     "en-US": [
-      "AI assistants and external tools can create, find, and precisely edit editable posters, with fresh previews rendered by an online Web or desktop client; multi-section content can be arranged into structured layouts.",
-      "Double-click poster images and placeholders to replace them, or grouped text to edit it; template decorations no longer obscure titles in affected layouts.",
-      "Fix encrypted credential initialization for WorkBuddy on desktop to improve AI assistant connectivity."
+      "Explain why Inbox cannot be deleted in notebook menus and prevent the disabled action from changing notebook selection.",
+      "Use a consistent available status label for WorkBuddy in desktop agent settings.",
+      "Update application dependencies and fix known vulnerabilities in XML, ZIP, URI, CSS, SVG, and desktop agent package handling."
     ],
     "zh-CN": [
-      "AI 助手与外部工具可创建、查询和精细编辑可编辑海报，并由在线 Web 或桌面客户端生成新预览；多段内容可自动排成清晰的海报版式。",
-      "海报画布支持双击替换图片与占位图、编辑编组内文字，并修复部分模板装饰遮挡标题的问题。",
-      "修复桌面端 WorkBuddy 的加密凭据初始化问题，改善 AI 助手连接。"
+      "笔记本菜单说明收件箱不可删除的原因，并修复点击禁用删除项时意外切换笔记本的问题。",
+      "统一桌面智能体设置中 WorkBuddy 的可用状态文案。",
+      "更新应用依赖，修复 XML、ZIP、URI、CSS、SVG 和桌面智能体软件包处理相关的已知安全漏洞。"
     ],
     "ja": [
-      "AI アシスタントと外部ツールで編集可能なポスターの作成・検索・詳細編集ができ、オンラインの Web またはデスクトップクライアントが新しいプレビューを生成します。複数段落の内容も整理されたレイアウトに配置できます。",
-      "ポスターの画像やプレースホルダーをダブルクリックして置き換え、グループ内の文字を編集できます。一部のテンプレートで装飾がタイトルを隠す問題も修正しました。",
-      "デスクトップ版 WorkBuddy の暗号化された認証情報の初期化を修正し、AI アシスタントの接続を改善しました。"
+      "ノートブックメニューで受信トレイを削除できない理由を表示し、無効な削除項目をクリックした際に選択が切り替わる問題を修正しました。",
+      "デスクトップのエージェント設定で WorkBuddy の利用可能ステータス表記を統一しました。",
+      "アプリの依存関係を更新し、XML、ZIP、URI、CSS、SVG、およびデスクトップエージェントのパッケージ処理に関連する既知の脆弱性を修正しました。"
     ]
   }
 }
